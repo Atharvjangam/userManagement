@@ -70,7 +70,7 @@ Clone the Repository:
 bash
 git clone <repository-url>
 
-#Backend Setup:
+Backend Setup:
 
 Navigate to the backend directory.
 Run the Spring Boot application:
@@ -78,7 +78,7 @@ bash
 ./mvnw spring-boot:run
 
 
-#Frontend Setup:
+Frontend Setup:
 
 Navigate to the frontend directory.
 Install dependencies:

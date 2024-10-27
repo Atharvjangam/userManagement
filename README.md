@@ -65,7 +65,7 @@ Returns null on successful creation.
 
 
 ##Getting Started
-Clone the Repository:
+Clone the Repository: https://github.com/Atharvjangam/userManagement/blob/main
 
 bash
 git clone <repository-url>
